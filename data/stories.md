@@ -47,3 +47,8 @@
 ## story_thankyou
 * thanks
     - utter_noworries
+
+## New Story
+
+* greet
+    - find_facility_types
